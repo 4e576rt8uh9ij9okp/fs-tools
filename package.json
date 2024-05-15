@@ -1,0 +1,25 @@
+{
+  "name": "fs-utils",
+  "version": "0.0.0",
+  "description": "Some fs utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4e576rt8uh9ij9okp/fs-utils.git"
+  },
+  "keywords": [
+    "fs",
+    "utils",
+    "folder",
+    "file"
+  ],
+  "author": "Who Cares",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/4e576rt8uh9ij9okp/fs-utils/issues"
+  },
+  "homepage": "https://github.com/4e576rt8uh9ij9okp/fs-utils#readme"
+}
