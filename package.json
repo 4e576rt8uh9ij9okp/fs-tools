@@ -1,5 +1,5 @@
 {
-  "name": "fs-utils",
+  "name": "fs-tools",
   "version": "0.0.0",
   "description": "Some fs utils",
   "main": "index.js",

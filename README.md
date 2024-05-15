@@ -1,6 +1,6 @@
 
-# fs-utils
-Simple nodejs fs utils
+# fs-tools
+Simple nodejs fs tools (which I use and need)
 
 # getFilesFrom(folderPath, filter)
 
