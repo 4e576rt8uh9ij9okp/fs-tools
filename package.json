@@ -1,14 +1,14 @@
 {
   "name": "fs-tools",
   "version": "0.0.0",
-  "description": "Some fs utils",
+  "description": "Some fs tools",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4e576rt8uh9ij9okp/fs-utils.git"
+    "url": "git+https://github.com/4e576rt8uh9ij9okp/fs-tools.git"
   },
   "keywords": [
     "fs",
@@ -19,7 +19,7 @@
   "author": "Who Cares",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/4e576rt8uh9ij9okp/fs-utils/issues"
+    "url": "https://github.com/4e576rt8uh9ij9okp/fs-tools/issues"
   },
-  "homepage": "https://github.com/4e576rt8uh9ij9okp/fs-utils#readme"
+  "homepage": "https://github.com/4e576rt8uh9ij9okp/fs-tools#readme"
 }
