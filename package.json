@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4e576rt8uh9ij9okp/fs-tools.git"
+    "url": "git+https://github.com/4e576rt8uh9ij9okp/fs-toolz.git"
   },
   "keywords": [
     "fs",
@@ -19,7 +19,7 @@
   "author": "Who Cares",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/4e576rt8uh9ij9okp/fs-tools/issues"
+    "url": "https://github.com/4e576rt8uh9ij9okp/fs-toolz/issues"
   },
-  "homepage": "https://github.com/4e576rt8uh9ij9okp/fs-tools#readme"
+  "homepage": "https://github.com/4e576rt8uh9ij9okp/fs-toolz#readme"
 }
